@@ -1,0 +1,16 @@
+C:\Users\Nur\source\repos\alarm\bin\Debug\alarm.exe.config
+C:\Users\Nur\source\repos\alarm\bin\Debug\alarm.exe
+C:\Users\Nur\source\repos\alarm\bin\Debug\alarm.pdb
+C:\Users\Nur\source\repos\alarm\obj\Debug\alarm.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\alarm\obj\Debug\alarm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nur\source\repos\alarm\obj\Debug\alarm.Form1.resources
+C:\Users\Nur\source\repos\alarm\obj\Debug\alarm.Properties.Resources.resources
+C:\Users\Nur\source\repos\alarm\obj\Debug\alarm.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\alarm\obj\Debug\alarm.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\alarm\obj\Debug\alarm.exe
+C:\Users\Nur\source\repos\alarm\obj\Debug\alarm.pdb
+C:\Users\Nur\source\repos\alarm\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nur\source\repos\alarm\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nur\source\repos\alarm\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nur\source\repos\alarm\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nur\source\repos\alarm\obj\Debug\alarm.csproj.ResolveComReference.cache
